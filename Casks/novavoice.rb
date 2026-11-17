@@ -1,6 +1,6 @@
 cask "novavoice" do
-  version "0.7.85"
-  sha256 "6cf71ffaff3f61ac48b362fb43afe2d6c4ad83279165bd993a7ef6e5965240fb"
+  version "0.7.86"
+  sha256 "8297f3e06822833832131895dae84cbe493a2e115fb775c5ae7a687d05fd0c23"
 
   url "https://novavoice.org/updates/macos/NovaVoice_#{version}_universal.dmg"
   name "NovaVoice"
