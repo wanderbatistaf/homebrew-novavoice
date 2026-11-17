@@ -1,7 +1,10 @@
 # NovaVoice para Homebrew
 
 ```sh
-brew install --cask wanderbatistaf/novavoice/novavoice
+brew tap wanderbatistaf/novavoice
+brew trust wanderbatistaf/novavoice
+brew install --cask novavoice
 ```
 
-O app se atualiza sozinho depois de instalado. Site: https://novavoice.org
+O Homebrew pede para confiar no tap antes de instalar o primeiro app dele.
+Depois de instalado, o NovaVoice se atualiza sozinho. Site: https://novavoice.org
